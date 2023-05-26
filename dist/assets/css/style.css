@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif !important;
+
+}
+body{
+font-family: 'Poppins', sans-serif !important;
+
+}
+
+.btn-primary{
+    background: #FF914D;
+    border: none;
+}
+
+.btn-primary:hover{
+    background: #FF914D ;
+    
+}
+
+.navbar-absolute-top{
+    background: #F1F2F3 ;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: #0E253A  ;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #FF914D  ;
+}
+
+.navbar-light .navbar-nav .nav-link.active{
+    color: #FF914D  ;
+}
+
+.banner,.section3,.bg-dark{
+    background: #00687D !important;
+}
+
+.bannerForm{
+    background: white;
+    padding: 20px;
+}
+.bannerForm button{
+    width: 100%;
+}
+
+.footerTitle{
+    color: #FF914D  ;
+}
+
+.contactSection{
+    background: url(../img/contact-bg.png) center center no-repeat !important;
+    background-size: cover !important;
+}
+
